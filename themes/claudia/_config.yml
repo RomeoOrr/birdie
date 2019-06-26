@@ -1,0 +1,62 @@
+# Header
+menu:
+  Home: /
+  About: about/
+  Fishing: categories/best-fishing-spots/
+  Pet: categories/healthy-pet/
+  Remedies: categories/home-remedies/
+  Skincare: categories/natural-skincare/
+  #Tags: /tags
+
+rss: /atom.xml
+
+# User Info
+user_name: Birdie Tracker
+user_avatar: /img/logo.png
+user_location: Ohio
+user_description: "Don't mess up with your own life."
+user_contact: lifeM_BT@birdietracker.com
+user_introduction: "There are two ways of spreading light: to be the candle or the mirror that reflects it. - Edith Wharton"
+
+github_username: 
+twitter_username: 
+weibo_username:
+zhihu_username: 
+facebook_username:
+linkedin_username:
+
+# Content
+excerpt_link: Read More
+fancybox: true
+
+# display widgets at the bottom of index pages (pagination == 2)
+#index_widgets:
+# - category
+# - tagcloud
+# - archive
+
+# widget behavior
+#archive_type: 'monthly'
+#show_count: false
+
+# 评论系统
+# 不要用别人的 uid, 自己去注册一个吧
+use_livere: false
+livere_uid: MTAyMC8yOTE4Ni81NzUz
+
+use_disqus: false
+disqus_url: https://haojen.disqus.com/embed.js
+
+# Miscellaneous
+google_analytics:
+favicon: /img/favicon.ico
+#twitter:
+#google_plus:
+#fb_admins:
+#fb_app_id:
+
+# Highlight code
+# do ensure u have closed all the highlight choices in ur root _config.yml
+# currently we provided 6 choices based on highlight script
+# highlight_default, highlight_light, highlight_github, highlight_rainbow, highlight_vs, highlight_atom
+block_highlight: highlight_rainbow
