@@ -6,6 +6,7 @@ menu:
   Pet: categories/healthy-pet/
   Remedies: categories/home-remedies/
   Skincare: categories/natural-skincare/
+  Gizmo: categories/gizmo/
   #Tags: /tags
 
 rss: /atom.xml
