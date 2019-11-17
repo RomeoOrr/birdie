@@ -4,7 +4,7 @@ date: 2019-10-21 15:17:00
 category: healthy pet
 ---
 
-There are hundreds of tips and tools when it comes to dog training, like remote dog training collar, clicker, and treats. But before we begin training, we must understand this: if there is no motivation, there is no training. Motivation is your dog’s answer to why and behavior change. If you want to change your dog’s behavior then you have to give them a good reason.
+There are hundreds of tips and tools when it comes to dog training, like [remote dog training collar](http://www.petdiarycollar.com), clicker, and treats. But before we begin training, we must understand this: if there is no motivation, there is no training. Motivation is your dog’s answer to why and behavior change. If you want to change your dog’s behavior then you have to give them a good reason.
 
 ![](/img/23.jpeg)
 
